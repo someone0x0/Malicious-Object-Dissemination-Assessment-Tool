@@ -21,11 +21,11 @@ Before you start, ensure you have the following software installed:
 - **MySQL** (or MariaDB)
 - **Apache** or **Nginx** (for serving PHP files)
 - **Chart.js** (CDN included in the project)
-### 2. Set up the database
+###  **Set up the database**
    - Import the provided SQL file (`schema.sql`) into your MySQL database to create the `endpoints` table.
    - Update the `config.php` file with your database credentials.
 
-### 3. Run the application
+###  **Run the application**
    - Place the project files in your web server’s root directory.
    - Access the dashboard in your browser.
 
