@@ -1,5 +1,5 @@
 # Malicious-Object-Dissemination-Assessment-Tool
-# **Endpoints Dashboard**
+## **Endpoints Dashboard**
 
 This project is a simple PHP dashboard that interacts with a MySQL database to display the percentage and count of matching and non-matching hashes. It allows users to visualize the data through a pie chart and provides a button to delete all records from the `endpoints` table.
 
